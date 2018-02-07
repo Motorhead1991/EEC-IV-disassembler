@@ -1,5 +1,5 @@
 # EEC-IV-disassembler
-semi automatic disassembler for Ford EEC-IV and V binaries
+semi automatic disassembler for Ford EEC-IV and V binaries - latest is 3.02
 
 MORE to come.
 
